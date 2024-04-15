@@ -21,3 +21,4 @@ int main()
     cout << "Result: " << result << std::endl;
     return 0;
 }
+
