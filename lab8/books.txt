@@ -1,0 +1,7 @@
+Tolstoy,War and Peace,AST,1869,500.0
+Dostoevsky,Crime and Punishment,Eksmo,1866,300.0
+Pushkin,Eugene Onegin,Azbuka,1833,200.0
+David Mitchell,Cloud Atlas,internet,2004,600.0
+Philip Roth,The Plot Against America,UK,2004,745.0
+Jonathan Franzen,The Corrections,testk,2001,760.0
+Kate Atkinson,Life After Life,INT,2013,250.0
